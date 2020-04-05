@@ -1,4 +1,4 @@
-
+*.tar.gz
 png/
 png-320p.tar.gz
 *.out
@@ -30,7 +30,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
+MANIFES
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
